@@ -1,0 +1,12 @@
+transformers 
+langchain 
+pinecone-client 
+datasets 
+torchaudio
+soundfile
+streamlit_webrtc 
+numpy
+
+torch 
+psutil 
+soundfile
