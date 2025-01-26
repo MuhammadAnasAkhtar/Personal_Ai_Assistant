@@ -98,7 +98,6 @@ project-folder/
 ├── app.py               # Main Streamlit application
 ├── requirements.txt     # List of Python dependencies
 ├── README.md           # Detailed project documentation
-└── resources/          # Folder for storing additional assets
 
 # Key Functionalities and Code Breakdown
 
